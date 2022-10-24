@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         println("Hello World")
 
         println("Hello World")
+        println("test")
     }
 }

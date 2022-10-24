@@ -4,9 +4,9 @@
 
 
 # Collaborators:
-# Jared Ellis
-# Darcy Merilan
-# Josh Smith
-# Mason Schenk
-# Daniel Wilkes
-# Emily Wayment
+* Jared Ellis
+* Darcy Merilan
+* Josh Smith
+* Mason Schenk
+* Daniel Wilkes
+* Emily Wayment

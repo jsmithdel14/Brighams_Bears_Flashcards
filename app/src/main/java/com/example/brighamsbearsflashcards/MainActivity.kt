@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("Hello World")
 
-        println("hi")
+        println("hello")
     }
 }

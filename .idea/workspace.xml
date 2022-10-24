@@ -9,7 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46ee318a-5524-4d8c-9f1c-fb1f90a3fd70" name="Changes" comment="commit">
+    <list default="true" id="46ee318a-5524-4d8c-9f1c-fb1f90a3fd70" name="Changes" comment="fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Brighams_Bears_Flashcards.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Brighams_Bears_Flashcards.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Brighams_Bears_Flashcards.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Brighams_Bears_Flashcards.app.androidTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Brighams_Bears_Flashcards.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Brighams_Bears_Flashcards.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Brighams_Bears_Flashcards.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Brighams_Bears_Flashcards.app.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Brighams_Bears_Flashcards.app.unitTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Brighams_Bears_Flashcards.app.unitTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/brighamsbearsflashcards/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/brighamsbearsflashcards/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
